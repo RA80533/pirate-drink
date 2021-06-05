@@ -4,3 +4,6 @@
 [submodule "actions/checkout"]
 	path = .github/actions/actions/checkout
 	url = https://github.com/actions/checkout.git
+[submodule "actions/setup-node"]
+	path = .github/actions/actions/setup-node
+	url = https://github.com/actions/setup-node.git
