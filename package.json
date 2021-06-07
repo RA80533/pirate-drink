@@ -1,0 +1,10 @@
+{
+  "name": "pirate-drink",
+  "version": "0.0.0",
+  "repository": "github:RA80533/pirate-drink",
+  "author": "RA80533 <32469082+RA80533@users.noreply.github.com>",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true
+}
