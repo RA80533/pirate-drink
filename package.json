@@ -1,6 +1,7 @@
 {
   "name": "pirate-drink",
   "version": "0.0.0",
+  "license": "MIT",
   "repository": "github:RA80533/pirate-drink",
   "author": "RA80533 <32469082+RA80533@users.noreply.github.com>",
   "scripts": {
